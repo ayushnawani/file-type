@@ -157,3 +157,8 @@ It only needs the first 4100 bytes.
 ## License
 
 MIT © [Sindre Sorhus](https://sindresorhus.com)
+
+
+## TODO
+  add SVG.
+
